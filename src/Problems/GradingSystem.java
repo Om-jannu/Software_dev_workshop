@@ -1,4 +1,4 @@
-package Getting/*
+package Problems;/*
     1. You are given as input marks of a student.
     2. Display an appropriate message based on the following rules:
   	  2.1 for marks above 90, print excellent.

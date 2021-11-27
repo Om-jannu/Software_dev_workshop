@@ -1,4 +1,4 @@
-package Getting
+package Problems;
 
 import java.util.*;
 

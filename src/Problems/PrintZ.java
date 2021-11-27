@@ -1,4 +1,4 @@
-package Getting/*
+package Problems;/*
     Print the following pattern in Java:
     *****
        *

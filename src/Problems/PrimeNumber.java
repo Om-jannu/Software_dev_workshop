@@ -1,4 +1,4 @@
-package Getting/*
+package Problems;/*
     1. You've to check whether a given number is prime or not.
     2. Take a number "t" as input representing count of input numbers to be tested.
     3. Take a number "n" as input "t" number of times.

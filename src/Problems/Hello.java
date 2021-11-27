@@ -1,4 +1,4 @@
-package Getting/*
+package Problems;/*
     Print 'Hello World' in console and run the program
 */
 

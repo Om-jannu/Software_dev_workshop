@@ -1,4 +1,4 @@
-package Getting/*
+package Problems;/*
     1. You've to print all prime numbers between a range. 
     2. Take as input "low", the lower limit of range.
     3. Take as input "high", the higher limit of range.
